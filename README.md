@@ -14,7 +14,7 @@ Welcome to my GitHub Page.🌟 🚀 As an experienced Software Engineer and adep
 
 ## My favorite tools and technologies ⚙️
 
-> Tools and technologies that I have worked with and am interested in
+> Tools and technologies that I have worked upon.
 
 <table>
   <tr>
@@ -26,33 +26,30 @@ Welcome to my GitHub Page.🌟 🚀 As an experienced Software Engineer and adep
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
-    <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Redis
+      <br>Java
     </td>
-  </tr>
-  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      <br>Spring
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
-      <br>Redis
+      <br>Angular
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>Redis
-    </td>
-  </tr>
+      <br>React
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Rest API
     </td>
-          <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
       <br>Docker
     </td>
-  </tr>
+
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
