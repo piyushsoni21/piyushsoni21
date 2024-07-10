@@ -27,19 +27,19 @@ Welcome to my GitHub Page.🌟 🚀 As an experienced Software Engineer and adep
       <br>Github
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+        <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" />
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+        <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring" />
       <br>Spring
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+        <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="Angular" />
       <br>Angular
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
       <br>React
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
