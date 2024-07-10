@@ -12,7 +12,7 @@
 Welcome to my GitHub Page.🌟 🚀 As an experienced Software Engineer and adept Full Stack Developer, I specialize in Java and Angular, allowing me to handle a wide range of projects from front-end design to back-end development. I have a deep passion for designing and discussing intricate systems and excel in collaborative settings where I can share my knowledge and drive innovation. My commitment to delivering top-notch solutions and my enthusiasm for continuous learning make me an asset in developing reliable and efficient software. I am always eager to learn new technologies and collaborate with fellow technology enthusiasts. Let's connect and create something amazing together!
 </p>
 
-## My favorite tools and technologies ⚙️
+## My Core Expertise ⚙️
 
 > Tools and technologies that I have worked upon.
 
