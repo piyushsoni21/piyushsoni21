@@ -1,4 +1,4 @@
-<img src="intro.png" alt="👋 Hi there! I'm Piyush" title="👋 Hi there! I'm reza"/>
+<img src="intro.png" alt="👋 Hi there! I'm Piyush" title="👋 Hi there! I'm Piyush"/>
 <div align="justify">
 
 <a href="https://www.linkedin.com/in/piyush-soni2189/">
